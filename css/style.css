@@ -818,7 +818,7 @@ h1 {
   }
 
   .clock-container {
-    max-width: 130px;
+    max-width: 164px;
   }
 
   .time-row .dt-digit-in,
@@ -828,15 +828,15 @@ h1 {
 
   .mode-digital .time-row .dt-digit-in,
   .mode-digital .time-row .dt-digit-out {
-    font-size: 26px;
+    font-size: 28px;
   }
 
   .time-row .dt-sep {
-    font-size: 22px;
+    font-size: 20px;
   }
 
   .time-row .dt-ampm {
-    font-size: 13px;
+    font-size: 14px;
     height: 22px;
   }
 
@@ -845,20 +845,20 @@ h1 {
   }
 
   .city-name {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .country-name {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .phase-text,
   .utc-offset {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .date-row {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   header {
@@ -887,7 +887,7 @@ h1 {
   }
 
   .clock-container {
-    max-width: 100px;
+    max-width: 120px;
   }
 
   .time-row .dt-digit-in,
@@ -897,24 +897,24 @@ h1 {
 
   .mode-digital .time-row .dt-digit-in,
   .mode-digital .time-row .dt-digit-out {
-    font-size: 22px;
+    font-size: 24px;
   }
 
   .time-row .dt-sep {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .time-row .dt-ampm {
-    font-size: 11px;
+    font-size: 12px;
     height: 18px;
   }
 
   .country-code {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .city-name {
-    font-size: 11px;
+    font-size: 12px;
   }
 
   .country-name {
@@ -923,11 +923,11 @@ h1 {
 
   .phase-text,
   .utc-offset {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .date-row {
-    font-size: 9px;
+    font-size: 12px;
   }
 
   .modal-sheet {
